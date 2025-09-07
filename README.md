@@ -1,8 +1,14 @@
-# 👋 Hi there, I'm Reece Niemuth!
+<p align="center">
+  <img src="./GithubBanner.png" alt="Reece Niemuth Banner" />
+</p>
 
-Cybersecurity Engineer | ISSO @ Lockheed Martin | USMC Veteran | Obsessed with automation, compliance, and building secure systems.
+#### Cybersecurity Engineer | ISSO/E @ Lockheed Martin | USMC Veteran | Obsessed with automation, compliance, and building secure systems.
 
-> ![Profile Views](https://komarev.com/ghpvc/?username=ReeceNiemuth&color=green&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ReeceNiemuth&color=green&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/ReeceNiemuth?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/ReeceNiemuth?label=Stars&style=flat-square" />
+</p>
 
 ### 📌 Featured Projects
 

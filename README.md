@@ -2,7 +2,9 @@
   <img src="./GithubBanner.png" alt="Reece Niemuth Banner" />
 </p>
 
-#### ISSO/E @ Lockheed Martin | USMC Veteran | Obsessed with automation, compliance, and building secure systems.
+<p align="center">
+Lockheed Martin Information Systems Security Engineering | Obsessed with automation, compliance, and secure systems development
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ReeceNiemuth&color=green&style=flat-square" />

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./GithubBanner.png" alt="Reece Niemuth Banner" />
+  <img src="./GithubBanner2.png" alt="Reece Niemuth Banner" />
 </p>
 
 <p align="center">

@@ -31,6 +31,7 @@ Lockheed Martin Information Systems Security Engineering | Obsessed with automat
 #### Here's what I bring to the table...
 
 ##### 📜 Certifications  
+![ISC2 ISSEP](https://img.shields.io/badge/ISSEP-ISC2-green)
 ![ISC2 CISSP](https://img.shields.io/badge/CISSP-ISC2-green)
 ![ISC2 CCSP](https://img.shields.io/badge/CCSP-ISC2-green)
 ![CompTIA CASP+](https://img.shields.io/badge/CASP+-CompTIA-blue)

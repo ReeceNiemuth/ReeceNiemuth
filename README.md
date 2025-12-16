@@ -17,8 +17,8 @@ Lockheed Martin Information Systems Security Engineering | Obsessed with automat
 - [**reeceniemuth.com**](https://reeceniemuth.com)  
   *My Blog, Home Lab Documentation Hub, and Professional Home Page.*
 
-- [**TCU SWE Undergraduate Projects**](https://github.com/ReeceNiemuth/TCU-SWE-Undergrad-Projects)  
-  *Software Engineering coursework and projects from my undergraduate studies at TCU.*
+- [**Cyber Portfolio**](https://github.com/ReeceNiemuth/Cyber-Engineering-Portfolio)  
+  *A highlight page for some of my professional projects and development efforts*
 
 - [**Home Lab ISSE Collection**](https://github.com/ReeceNiemuth/HomeLab-ISSE-Collection)  
   *Codebase, configurations, and security documentation from my personal DoD-aligned Home Lab.*

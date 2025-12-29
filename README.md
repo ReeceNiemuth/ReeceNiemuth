@@ -20,7 +20,7 @@ Lockheed Martin Information Systems Security Engineering | Obsessed with automat
 - [**Cyber Portfolio**](https://github.com/ReeceNiemuth/Cyber-Engineering-Portfolio)  
   *A highlight page for some of my professional projects and development efforts*
 
-- [**Home Lab ISSE Collection**](https://github.com/ReeceNiemuth/HomeLab-ISSE-Collection)  
+- [**Home Lab ISSE Collection**](https://github.com/ReeceNiemuth/HomeLab-ISSE-Collection-PUBLIC)  
   *Codebase, configurations, and security documentation from my personal DoD-aligned Home Lab.*
 
 - [**Alternate Codebase (GitLab)**](https://gitlab.com/ReeceNiemuth)  

@@ -80,9 +80,8 @@ Lockheed Martin Information Systems Security Engineering | Obsessed with automat
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ReeceNiemuth&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReeceNiemuth&layout=compact&theme=dark)
-
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ReeceNiemuth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReeceNiemuth&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🔗 Connections
 - [**My Personal Website**](https://reeceniemuth.com) 

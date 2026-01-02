@@ -79,11 +79,6 @@ Lockheed Martin Information Systems Security Engineering | Obsessed with automat
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 
-## 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ReeceNiemuth&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ReeceNiemuth&show_icons=true&theme=dark&hide_border=true)
-
 ## 🔗 Connections
 - [**My Personal Website**](https://reeceniemuth.com) 
 - [My LinkedIn Profile](https://www.linkedin.com/in/reece-niemuth-mba-cissp-ccsp-54a87419a/)

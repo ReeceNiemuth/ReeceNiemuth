@@ -79,6 +79,5 @@ Lockheed Martin Information Systems Security Engineering | Obsessed with automat
 ## 🔗 Connections
 - [**My Personal Website**](https://reeceniemuth.com) 
 - [My LinkedIn Profile](https://www.linkedin.com/in/reece-niemuth-mba-cissp-ccsp-54a87419a/)
-- [My Gitlab Profile - Alternate Coding Repo](https://gitlab.com/ReeceNiemuth)
-- [My Home Lab Repo](https://github.com/ReeceNiemuth/HomeLab-ISSE-Collection)
+- [My Home Lab Repo](https://github.com/ReeceNiemuth/HomeLab-ISSE-Collection-PUBLIC)
 - [My SWE-Related Undergraduate Java Projects](https://github.com/ReeceNiemuth/TCU-SWE-Undergrad-Projects)

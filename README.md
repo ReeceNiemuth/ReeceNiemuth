@@ -15,7 +15,7 @@ Lockheed Martin Information Systems Security Engineering | Obsessed with automat
 ### 📌 Featured Projects
 
 - [**reeceniemuth.com**](https://reeceniemuth.com)  
-  *My Blog, Home Lab Documentation Hub, and Professional Home Page.*
+  *My Professional Landing Page.*
 
 - [**Cyber Portfolio**](https://github.com/ReeceNiemuth/Cyber-Engineering-Portfolio)  
   *A highlight page for some of my professional projects and development efforts*

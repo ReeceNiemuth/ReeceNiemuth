@@ -23,9 +23,6 @@ Lockheed Martin Information Systems Security Engineering | Obsessed with automat
 - [**Home Lab ISSE Collection**](https://github.com/ReeceNiemuth/HomeLab-ISSE-Collection-PUBLIC)  
   *Codebase, configurations, and security documentation from my personal DoD-aligned Home Lab.*
 
-- [**Alternate Codebase (GitLab)**](https://gitlab.com/ReeceNiemuth)  
-  *Supplementary projects and code hosted on GitLab.*
-
 ---
 
 #### Here's what I bring to the table...

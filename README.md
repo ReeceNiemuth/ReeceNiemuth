@@ -12,7 +12,7 @@ Lockheed Martin Information Systems Security Engineering | Obsessed with automat
   <img src="https://img.shields.io/github/stars/ReeceNiemuth?label=Stars&style=flat-square" />
 </p>
 
-### 📌 Featured Projects
+### 📌 Explore some of my Work Here!
 
 - [**reeceniemuth.com**](https://reeceniemuth.com)  
   *My Professional Landing Page.*

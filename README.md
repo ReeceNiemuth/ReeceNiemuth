@@ -12,6 +12,16 @@ Lockheed Martin Information Systems Security Engineering | Obsessed with automat
   <img src="https://img.shields.io/github/stars/ReeceNiemuth?label=Stars&style=flat-square" />
 </p>
 
+![ISC2](https://img.shields.io/badge/ISC2-006400?logo=isc2&logoColor=white) **ISSEP** · **CISSP** · **CCSP**
+
+![CompTIA](https://img.shields.io/badge/CompTIA-CC0000?logo=comptia&logoColor=white) **CASP+** · **CySA+** · **PenTest+** · **Security+** · **Network+** · **A+** · **Project+**
+
+![Splunk](https://img.shields.io/badge/Splunk-E20082?logo=splunk&logoColor=white) **Enterprise Administrator** · **Core Advanced Power User** · **Core Power User**
+
+![LPI](https://img.shields.io/badge/LPI-F5C400?logo=lpi&logoColor=black) **Linux Essentials**
+![Axelos](https://img.shields.io/badge/Axelos-6B21A8?logoColor=white) **ITILv4 Foundation**
+![Genesys](https://img.shields.io/badge/Genesys-404040?logoColor=white) **Cloud CX Professional**
+
 ### 📌 Explore My Work Here
 
 - [**reeceniemuth.com**](https://reeceniemuth.com)  
@@ -26,24 +36,6 @@ Lockheed Martin Information Systems Security Engineering | Obsessed with automat
 ---
 
 #### Here's what I bring to the table...
-
-##### 📜 Certifications  
-![ISC2 ISSEP](https://img.shields.io/badge/ISSEP-ISC2-green)
-![ISC2 CISSP](https://img.shields.io/badge/CISSP-ISC2-green)
-![ISC2 CCSP](https://img.shields.io/badge/CCSP-ISC2-green)
-![CompTIA CASP+](https://img.shields.io/badge/CASP+-CompTIA-blue)
-![CompTIA PenTest+](https://img.shields.io/badge/PenTest+-CompTIA-blue)
-![CompTIA CySA+](https://img.shields.io/badge/CySA+-CompTIA-blue)
-![CompTIA Security+](https://img.shields.io/badge/Security+-CompTIA-red)
-![CompTIA Network+](https://img.shields.io/badge/Network+-CompTIA-red)
-![CompTIA A+](https://img.shields.io/badge/A+-CompTIA-red)
-![CompTIA Project+](https://img.shields.io/badge/Project+-CompTIA-orange)
-![Splunk Core Power User](https://img.shields.io/badge/Core%20Power%20User-Splunk-black)
-![Splunk Core Advanced Power User](https://img.shields.io/badge/Core%20Advanced%20Power%20User-Splunk-black)
-![Splunk Enterprise Administrator](https://img.shields.io/badge/Enterprise%20Administrator-Splunk-black)
-![LPI Linux Essentials](https://img.shields.io/badge/Linux%20Essentials-LPI-yellow)
-![Axelos ITILv4](https://img.shields.io/badge/ITILv4-Foundation-purple)
-![Genesys Cloud CX Professional](https://img.shields.io/badge/Genesys-Cloud%20CX%20Professional-lightgrey)
 
 ##### 👨‍💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -61,7 +53,7 @@ Lockheed Martin Information Systems Security Engineering | Obsessed with automat
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D7?logo=microsoft&logoColor=white)
 
 ##### 🛡️ Security Tools & Frameworks
-![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-E20082?logo=splunk&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-1A73E8?logo=tenable&logoColor=white)
 ![Qmulos](https://img.shields.io/badge/Qmulos-FF6F00?logo=shield&logoColor=white)
 ![STIG](https://img.shields.io/badge/DISA-STIG-blue)

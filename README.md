@@ -12,11 +12,11 @@ Lockheed Martin Information Systems Security Engineering | Obsessed with automat
   <img src="https://img.shields.io/github/stars/ReeceNiemuth?label=Stars&style=flat-square" />
 </p>
 
-![ISC2](https://img.shields.io/badge/ISC2-006400?logo=isc2&logoColor=white) **ISSEP** · **CISSP** · **CCSP**
+![ISC2](https://img.shields.io/badge/ISC2-006400?logo=isc2&logoColor=white) **ISSEP** · **ISSAP** · **CISSP** · **CCSP**
 
 ![CompTIA](https://img.shields.io/badge/CompTIA-CC0000?logo=comptia&logoColor=white) **CASP+** · **CySA+** · **PenTest+** · **Security+** · **Network+** · **A+** · **Project+**
 
-![Splunk](https://img.shields.io/badge/Splunk-E20082?logo=splunk&logoColor=white) **Enterprise Administrator** · **Core Advanced Power User** · **Core Power User**
+![Splunk](https://img.shields.io/badge/Splunk-E20082?logo=splunk&logoColor=white) **Enterprise Architect** ·**Enterprise Administrator** · **Core Advanced Power User** · **Core Power User**
 
 ![LPI](https://img.shields.io/badge/LPI-F5C400?logo=lpi&logoColor=black) **Linux Essentials**
 ![Axelos](https://img.shields.io/badge/Axelos-6B21A8?logoColor=white) **ITILv4 Foundation**
